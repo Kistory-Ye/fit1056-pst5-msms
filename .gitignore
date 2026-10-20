@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+msms.log
+permission_test.txt
+test_data.json
+test_msms_temp.json
+payment_test_temp*.json
+data/backups/
+.DS_Store
+
+# Coursework reference documents
+FIT1056_2026_S2_PST5.pdf
+FIT1056_PST_Rubric.pdf
